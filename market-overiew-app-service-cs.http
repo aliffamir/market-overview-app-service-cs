@@ -1,0 +1,6 @@
+@market_overiew_app_service_cs_HostAddress = http://localhost:5051
+
+GET {{market_overiew_app_service_cs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

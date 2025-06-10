@@ -1,0 +1,7 @@
+﻿services:
+  market-overiew-app-service-cs:
+    image: market-overiew-app-service-cs
+    build:
+      context: .
+      dockerfile: Dockerfile
+
